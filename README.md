@@ -25,7 +25,7 @@ To get started with the app, follow these steps:
 6. **Monitor Status**: Keep an eye on the robot's status and sensor data displayed on the app interface.
 
 ## Contributors
-- [Your Name](https://github.com/zahidprvz) - Creator and maintainer
+- [Zahid Parviz](https://github.com/zahidprvz) - Creator and maintainer
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
